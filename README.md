@@ -3,10 +3,6 @@
 This project analyzes **voice stability and loudness differences** between **Parkinson's patients and healthy individuals** using Python.  
 The analysis includes **data cleaning, statistical analysis, and result visualization**.
 
-## 📌 Project Summary
-
-(🔗 Add a link to the project summary here)
-
 ---
 
 ## 📂 Project Structure
