@@ -55,7 +55,7 @@ pip install pandas scipy seaborn matplotlib scikit-learn numpy
 
 1. Clone this repository:
    ```bash
-   git clone להוסיף קישור לגיט האב שלנו
+   git clone https://github.com/2230ariel/final_project
    ```
 2. Navigate to the project directory:
    ```bash
@@ -120,7 +120,7 @@ pytest tests/
 
 ## outputs
 
-outputs/
+outputs
 ├── cleaned_data.csv            # The cleaned dataset after preprocessing
 ├── correlation_matrix.png      # Heatmap showing correlations between features
 ├── logistic_regression.png     # Visualization of logistic regression predictions
